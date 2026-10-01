@@ -1,0 +1,1 @@
+Git uses 'origin' as a shortcut for our repository URL.
